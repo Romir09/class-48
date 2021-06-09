@@ -1,0 +1,137 @@
+[
+  {
+    "id": "2326a5eb-20cd-4a57-b203-a6afafcc127b",
+    "data": [
+      {
+        "text": "pizza",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffdc3175-9303-4efa-808e-b02a147f3b68",
+    "data": [
+      {
+        "text": "meal",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f31ee1d7-144b-4401-8e17-6c6330a4c36d",
+    "data": [
+      {
+        "text": "biriyani",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0087051f-d545-4973-bb08-16bc29f5ae49",
+    "data": [
+      {
+        "text": "ice cream",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4bded79-8f0d-4c48-bf8c-3e4d35fb85a1",
+    "data": [
+      {
+        "text": "soda",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52cc464a-3488-4c72-9ef0-daae31a65977",
+    "data": [
+      {
+        "text": "jamun",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42cb02b5-6b6b-4175-9df4-89be5e0efe43",
+    "data": [
+      {
+        "text": "tomato soup",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b95cd2e-17a7-4012-be91-1c691af33d14",
+    "data": [
+      {
+        "text": "paneer tikka",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a19008be-35a5-4de2-9849-8715d4f1d02c",
+    "data": [
+      {
+        "text": "samosa",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
